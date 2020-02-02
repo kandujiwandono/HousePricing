@@ -1,0 +1,9 @@
+utilities NA not yet imputed
+
+masonry veneer type none = masonry area 0
+there are variable which dont have any masonry veneer type but have masonry area. this should be fixed (done)
+
+check number of garage vs garage area in sq ft and garage cars
+
+basement na imputation with machine
+
